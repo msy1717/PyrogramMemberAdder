@@ -4,7 +4,7 @@
 
 <p align="center">
 
-   <a href="https://github.com/msy1717/PyrogramMemberAdder"><img src="https://telegra.ph/file/7fc75f24aacfbd5917250.jpg" alt="Beast X" width=400px></a>
+   <a href="https://github.com/msy1717/PyrogramMemberAdder"><img src="https://telegra.ph/file/7fc75f24aacfbd5917250.jpg" alt="" width=400px></a>
 
    <br>
 
