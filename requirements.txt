@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+colorama
+pyfiglet
+lolpython
+requests
